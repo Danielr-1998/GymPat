@@ -6,7 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.rianodev.gympat.databinding.FragmentRecordsBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class RecordsFragment : Fragment() {
 
     private var _binding: FragmentRecordsBinding? = null
