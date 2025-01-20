@@ -7,5 +7,22 @@
     <string name="records">Records</string>
     <string name="rutine">Rutine</string>
     <string name="progress">Progress</string>
+    <string name="ap_poleas">Aperturas con poleas</string>
+    <string name="aperturas">Aperturas de pecho</string>
+    <string name="curl_barra">Curl con barra</string>
+    <string name="curl_biceps">Curl de bíceps</string>
+    <string name="ele_frontales">Elevaciones frontales</string>
+    <string name="flexiones">Flexiones de pecho</string>
+    <string name="pat_triceps">Patada de triceps</string>
+    <string name="pectoral">Pectoral en máquina</string>
+    <string name="peso_muerto">Peso muerto</string>
+    <string name="press_banca">Press de banca</string>
+    <string name="press_frances">Press francés</string>
+    <string name="press_man">Press de mancuernas</string>
+    <string name="press_sentado">Press sentado</string>
+    <string name="remo">Remo</string>
+    <string name="sen_barra">Sentadillas con barra</string>
+    <string name="sen_bulgara">Sentadillas búlgaras</string>
+    <string name="zan_lunge">Zancadas</string>
 
 </resources>
